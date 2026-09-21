@@ -1,0 +1,6 @@
+{
+  "actor": {"employee_id": "leo", "role_family": "engineering", "onboarding_stage": "day_one"},
+  "message": "Am I eligible for this benefit?",
+  "expected_outcome": "handoff_prepared",
+  "expected_tools": ["prepare_human_handoff"]
+}

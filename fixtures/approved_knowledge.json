@@ -1,0 +1,23 @@
+[
+  {
+    "source_id": "security-training-guide",
+    "title": "Security training guide",
+    "version": "2026.1",
+    "published_at": "2026-01-15",
+    "body": "New hires complete security training during their first two working days."
+  },
+  {
+    "source_id": "buddy-program-guide",
+    "title": "Buddy program guide",
+    "version": "2026.1",
+    "published_at": "2026-01-15",
+    "body": "Each new hire can schedule an optional welcome coffee with their assigned buddy."
+  },
+  {
+    "source_id": "benefits-contact-guide",
+    "title": "Benefits contact guide",
+    "version": "2026.1",
+    "published_at": "2026-01-15",
+    "body": "People Operations can explain the benefits process and answer eligibility questions."
+  }
+]

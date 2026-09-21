@@ -1,0 +1,9 @@
+[project]
+name = "agent-production-diaries"
+version = "0.1.0"
+description = "Runnable companion code for The Agent Production Diaries"
+requires-python = ">=3.9"
+dependencies = ["langgraph>=0.6,<0.7"]
+
+[tool.unittest]
+start-directory = "tests"

@@ -1,0 +1,18 @@
+[
+  {
+    "task_id": "security-training",
+    "assigned_to": ["leo"],
+    "title": "Complete security training",
+    "instructions": "Complete the thirty minute security module before the end of your second day.",
+    "status": "complete",
+    "source_id": "security-training-guide"
+  },
+  {
+    "task_id": "team-introduction",
+    "assigned_to": ["leo"],
+    "title": "Meet your team buddy",
+    "instructions": "Choose one available welcome coffee slot with your assigned buddy.",
+    "status": "pending",
+    "source_id": "buddy-program-guide"
+  }
+]

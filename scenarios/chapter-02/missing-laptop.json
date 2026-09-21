@@ -1,0 +1,6 @@
+{
+  "actor": {"employee_id": "leo", "role_family": "engineering", "onboarding_stage": "day_one"},
+  "message": "Where is my laptop?",
+  "expected_outcome": "handoff_prepared",
+  "expected_tools": ["get_it_request_status", "prepare_human_handoff"]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "request_id": "it-1001",
+    "employee_id": "leo",
+    "category": "laptop",
+    "status": "delayed",
+    "detail": "The delivery partner has not confirmed a revised delivery time."
+  },
+  {
+    "request_id": "it-1002",
+    "employee_id": "maya",
+    "category": "laptop",
+    "status": "delivered",
+    "detail": "Delivered to the reception desk."
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "actor": {"employee_id": "leo", "role_family": "engineering", "onboarding_stage": "day_one"},
+  "message": "What should I do next after security training?",
+  "expected_outcome": "resolved",
+  "expected_tools": ["get_onboarding_checklist", "get_onboarding_task_detail"]
+}
